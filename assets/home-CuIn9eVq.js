@@ -1,0 +1,1 @@
+import{p as e,w as t}from"./chunk-UVKPFVEO-BwactrwG.js";const o=()=>e.jsxs("div",{children:[e.jsx("h1",{children:"dectalk.de/velopers"}),e.jsx("p",{children:"second commit"})]});function s({}){return[{title:"New React Router App"},{name:"description",content:"Welcome to React Router!"}]}const c=t(function(){return e.jsx(o,{})});export{c as default,s as meta};
