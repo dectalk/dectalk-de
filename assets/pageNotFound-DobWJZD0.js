@@ -1,0 +1,1 @@
+import{w as t,p as o}from"./chunk-UVKPFVEO-BRG8yuSZ.js";import{P as n}from"./pageNotFound-jNQ0S8Sj.js";import"./SiteWrapper-CQTzHsJL.js";function u({}){return[{title:"Page Not Found - DECtalk Community"},{name:"description",content:"unofficial dectalk website"}]}const m=t(function(){return o.jsx(n,{})});export{m as default,u as meta};
