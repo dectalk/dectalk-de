@@ -1,0 +1,2 @@
+System.register(["./chunk-UVKPFVEO-legacy-DpkjMOHP.js","./pageNotFound-legacy-BFqHh8zM.js","./SiteWrapper-legacy-B0BBR5bO.js"],function(e,t){"use strict";var n,u,a;return{setters:[e=>{n=e.w,u=e.p},e=>{a=e.P},null],execute:function(){e("meta",function({}){return[{title:"Page Not Found - DECtalk Community"},{name:"description",content:"unofficial dectalk website"}]}),e("default",n(function(){return u.jsx(a,{})}))}}});
+//# sourceMappingURL=pageNotFound-legacy-C4KUmjvV.js.map

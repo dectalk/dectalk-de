@@ -1,0 +1,2 @@
+import{w as t,p as o}from"./chunk-UVKPFVEO-Tywa-Hzq.js";import{P as n}from"./pageNotFound-BBw9C9BA.js";import"./SiteWrapper-BrNSoFGx.js";function a(){import.meta.url,import("_").catch(()=>1),(async function*(){})().next()}function m({}){return[{title:"Page Not Found - DECtalk Community"},{name:"description",content:"unofficial dectalk website"}]}const c=t(function(){return o.jsx(n,{})});export{a as __vite_legacy_guard,c as default,m as meta};
+//# sourceMappingURL=pageNotFound-HzKbRtAR.js.map
